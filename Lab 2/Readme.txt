@@ -1,0 +1,1 @@
+This Lab is an extension of the previous one. The same tables can be generated following Lab one and the same database is used, just some new queries were implemented.
